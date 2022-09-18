@@ -1,0 +1,100 @@
+body {
+    background: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 100px;
+    width: 100px;
+}
+
+.pixel {
+    height: 10px;
+    width: 10px;
+    float: left;
+}
+
+
+.pixel:nth-child(13),
+.pixel:nth-child(14),
+.pixel:nth-child(15),
+.pixel:nth-child(16),
+.pixel:nth-child(17),
+.pixel:nth-child(18),
+.pixel:nth-child(22),
+.pixel:nth-child(26),
+.pixel:nth-child(27),
+.pixel:nth-child(28),
+.pixel:nth-child(29),
+.pixel:nth-child(31),
+.pixel:nth-child(32),
+.pixel:nth-child(33),
+.pixel:nth-child(34),
+.pixel:nth-child(35),
+.pixel:nth-child(36),
+.pixel:nth-child(37),
+.pixel:nth-child(38),
+.pixel:nth-child(39),
+.pixel:nth-child(40),
+.pixel:nth-child(41),
+.pixel:nth-child(42),
+.pixel:nth-child(43),
+.pixel:nth-child(44),
+.pixel:nth-child(45),
+.pixel:nth-child(46),
+.pixel:nth-child(47),
+.pixel:nth-child(48),
+.pixel:nth-child(49),
+.pixel:nth-child(50),
+.pixel:nth-child(51),
+.pixel:nth-child(52),
+.pixel:nth-child(53),
+.pixel:nth-child(54),
+.pixel:nth-child(55),
+.pixel:nth-child(56),
+.pixel:nth-child(57),
+.pixel:nth-child(58),
+.pixel:nth-child(59),
+.pixel:nth-child(60),
+.pixel:nth-child(61),
+.pixel:nth-child(62),
+.pixel:nth-child(63),
+.pixel:nth-child(64),
+.pixel:nth-child(65),
+.pixel:nth-child(66),
+.pixel:nth-child(67),
+.pixel:nth-child(69),
+.pixel:nth-child(70),
+.pixel:nth-child(72),
+.pixel:nth-child(73),
+.pixel:nth-child(74),
+.pixel:nth-child(79),
+.pixel:nth-child(83),
+.pixel:nth-child(84) {
+    background: #0aa6d1;
+}
+
+.pixel:nth-child(23),
+.pixel:nth-child(24),
+.pixel:nth-child(25),
+.pixel:nth-child(26),
+.pixel:nth-child(33),
+.pixel:nth-child(34),
+.pixel:nth-child(35),
+.pixel:nth-child(36),
+.pixel:nth-child(44),
+.pixel:nth-child(45),
+.pixel:nth-child(68),
+.pixel:nth-child(75),
+.pixel:nth-child(76),
+.pixel:nth-child(77),
+.pixel:nth-child(78),
+.pixel:nth-child(85),
+.pixel:nth-child(86),
+.pixel:nth-child(87),
+.pixel:nth-child(88) {
+    background: #0ad177;
+}
